@@ -27,7 +27,7 @@ public class Merge {
 		
 		/*
 		 * Add the remaining elements of array 1 into
-		 * the final array if array 2 finish first
+		 * the final array if array 2 finishes first
 		 */
 		while (i < arr1.length) {
 			result[k] = arr1[i];
@@ -48,8 +48,5 @@ public class Merge {
 		return result;
 	}
 }
-
-// Q: What is the length of the resulting array, A.length + B.length?
-// A: The length would be the length of both arrays combined
 
 
