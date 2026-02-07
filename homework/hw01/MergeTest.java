@@ -4,6 +4,7 @@ import static org.junit.Assert.*;
 
 import org.junit.Test;
 
+//This is the junit test class
 public class MergeTest {
 
 	@Test
